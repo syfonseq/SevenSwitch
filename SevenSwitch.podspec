@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version = "1.4.0"
   s.summary = "iOS7 style drop in replacement for UISwitch."
   s.homepage = "https://github.com/bvogelzang/SevenSwitch"
-  s.licence = { :type => 'MIT', :file => 'LICENSE' }
+  s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.authors = { 'Ben Vogelzang' => "bvogelzang@breuer.com" }
   s.source   = { :git => 'https://github.com/syfonseq/SevenSwitch.git', :branch => 'ObjectiveC' }
   s.ios.deployment_target = '5.0'
